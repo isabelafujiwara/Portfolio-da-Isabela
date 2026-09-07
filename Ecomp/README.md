@@ -1,14 +1,15 @@
 # Ecomp
 
-Logo no primeiro semestre da faculdade de Ciência da Computação na UFPR eu resolvi já correr atrás dos projetos de extensão para participar! No meu ensino médio no IFPR eu tive experiências e vivências com projetos de extensão, então eu sabia que queria aproveitar tudo desde cedo!
+Durante o ensino médio técnico, que cursei no IFPR, eu pude participar de projetos de extensão que me proporcionaram muitos aprendizados. 
+Então, logo que entrei na UFPR, no curso de Ciência da Computação, eu já tinha em mente que eu queria aproveitar ao máximo as oportunidades que surgissem.
 
-Por isso, quando eu conheci a Ecomp, a empresa júnior de computação da UFPR, eu fiquei muito cativada com a ideia de uma vivência empresarial dentro do ambiente universitário, e eu logo me inscrevi no processo seletivo. No fim das contas eu passei e agora atuo como Assessora de Comunicação.
+Por isso, na semana de acolhida de calouros, quando eu conheci a Ecomp, a empresa júnior de computação da UFPR, fiquei muito interessada na ideia de ter uma vivência empresarial dentro do ambiente universitário. O processo seletivo foi muito desafiador porque ao longo da seleção os candidatos precisavam cumprir diversas atividades relacionadas às diferentes áreas da empresa, com o intuito de se familiarizar com seu funcionamento. Ao final, fui aprovada e escolhi atuar na diretoria de Comunicação, já que eu poderia explorar meu lado criativo e ao mesmo tempo me desafiar em uma área em que eu não tinha experiência.
 
-Mesmo não fazendo muito tempo que eu entrei na equipe eu já deixei minha marca na empresa, tanto participando da administração das redes sociais quanto criando conteúdo para elas também!
+Apesar do pouco tempo de participação na empresa, acredito que já deixei minha marca, tanto administrando as redes sociais quanto criando conteúdo para elas também.
 
-A maior parte do meu trabalho se concentrou nas duas contas do Instagram da empresa, o [@ecomp.ufpr](https://www.instagram.com/ecomp.ufpr/) e o [@ecomp.dev](https://www.instagram.com/ecomp.dev/), e desde que eu entrei na empresa participei ativamente do planejamento e criação dos posts.
+A maior parte do meu trabalho se concentra nas duas contas do Instagram da Ecomp, o [@ecomp.ufpr](https://www.instagram.com/ecomp.ufpr/) e o [@ecomp.dev](https://www.instagram.com/ecomp.dev/).
 
-Mas, as postagens onde minha participação é mais óbvia são nos Reels:
+Aqui estão alguns exemplos de postagens em que eu atuei não só na criação como também na execução:
  [História de superação](https://www.instagram.com/reel/DYSOYxwhzg2/) e [Regras não oficiais](https://www.instagram.com/reel/DcEzfI-BDOV/)!
 
  
