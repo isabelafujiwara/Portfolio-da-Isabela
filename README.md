@@ -1,7 +1,11 @@
 # Portfólio da Isabela
 
-Olá! Eu sou a Isabela Fujiwara Paulin e esse repositório é um portfólio pessoal de projetos!
+Olá! Eu sou a Isabela Fujiwara Paulin e esse repositório é uma reunião de alguns projetos pessoais que desenvolvi ao longo da minha trajetória!
 
-Claro, eu já fiz muitos projetos ao longo da minha vida, então esses são só alguns que eu selecionei para destacar, como cada um deles teve um grande impacto na minha trajetória!
+Aqui, selecionei os trabalhos que mais impactaram meu desenvolvimento em minha jornada de aprendizado!
 
-P.S.: Por favor, releve qualquer erro, eu não tenho muita prática com o GitHub :)
+---
+
+ - Esse repositório também é um exercício prático para dominar o funcionamento de Git e GitHub!
+
+
