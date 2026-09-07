@@ -2,7 +2,7 @@
 
 Olá! Eu sou a Isabela Fujiwara Paulin e esse repositório é uma reunião de alguns projetos pessoais que desenvolvi ao longo da minha trajetória!
 
-Aqui, selecionei os trabalhos que mais impactaram meu desenvolvimento em minha jornada de aprendizado!
+Aqui, selecionei os trabalhos que mais impactaram minha jornada de aprendizado!
 
 ---
 
