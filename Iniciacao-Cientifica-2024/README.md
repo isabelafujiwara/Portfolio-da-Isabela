@@ -1,10 +1,10 @@
 # Iniciação Científica
 
-No segundo ano do meu ensino médio, que fiz no IFPR integrado ao curso técnico em Eletrônica, fui convidada por um dos meus professores a participar de uma iniciação científica. 
+No segundo ano do ensino médio, que fiz no IFPR integrado ao curso técnico em Eletrônica, fui convidada por um dos meus professores a participar de um projeto de iniciação científica. 
 
-O projeto, que tinha um vínculo com o curso de Engenharia Civil da UFPR, girava em torno do desenvolvimento de um protótipo para automatizar o processo de testagem de amostras de concreto. 
+O trabalho desenvolvido, que tinha um vínculo com o curso de Engenharia Civil da UFPR, girava em torno da criação de um protótipo para automatizar o processo de testagem de amostras de concreto. 
 
-Com o desenvolvimento deste projeto eu tive a oportunidade de participar de diversos eventos, para apresentar meu trabalho e representar meu campus. Entre eles, posso citar:
+Ao longo deste projeto, tive a oportunidade de participar de diversos eventos para apresentar meu trabalho e representar meu campus. Entre eles, posso citar:
 
 * **XII IFTech**: Feira de Inovação Tecnológica do IFPR;
 * **Feira de Ciências e Tecnologia de Curitiba**;
