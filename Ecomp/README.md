@@ -9,10 +9,12 @@ Apesar do pouco tempo de participação na empresa, acredito que já deixei minh
 
 A maior parte do meu trabalho se concentra nas duas contas do Instagram da Ecomp, o [@ecomp.ufpr](https://www.instagram.com/ecomp.ufpr/) e o [@ecomp.dev](https://www.instagram.com/ecomp.dev/).
 
-Aqui estão alguns exemplos de Reels em que eu atuei não só na criação como também na execução:
+Vale citar que o processo criativo por trás dos posts envolve três pilares: redação, design e revisão, sendo que cada um desses papéis é delegado para uma pessoa diferente.
+
+Aqui estão alguns exemplos de Reels em que eu não só ajudei em um desses papéis, como também atuei em frenteàs câmeras:
  [História de superação](https://www.instagram.com/reel/DYSOYxwhzg2/) e [Regras não oficiais](https://www.instagram.com/reel/DcEzfI-BDOV/)!
 
- Eu também trabalhei na gravação e edição dos reels [Sentimento no palco](https://www.instagram.com/reel/DZQj1zsh3IP/) e [Edital do Processo seletivo 26/2](https://www.instagram.com/reel/Db3--wLBnFC/).
+Além destes, eu também trabalhei na gravação e edição dos reels [Sentimento no palco](https://www.instagram.com/reel/DZQj1zsh3IP/) e [Edital do Processo seletivo 26/2](https://www.instagram.com/reel/Db3--wLBnFC/).
 
-Além destes, nesta pasta busquei reunir os principais posts que eu fiz para as redes sociais da Ecomp.
+E, nesta pasta, busquei reunir os principais designs de posts que eu criei para as redes sociais da Ecomp.
  
